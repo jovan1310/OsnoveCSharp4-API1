@@ -1,0 +1,13 @@
+GET http://localhost:5087/
+
+###
+
+PUT http://localhost:5087
+
+###
+
+DELETE http://localhost:5087
+
+###
+
+POST http://localhost:5087
